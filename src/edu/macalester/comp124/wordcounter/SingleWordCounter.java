@@ -19,7 +19,7 @@ public class SingleWordCounter {
     }
 
     /**
-     * Incrmeents the counter for the word
+     * Increments the counter for the word
      */
     public void incrementCount() {
         this.count++;
